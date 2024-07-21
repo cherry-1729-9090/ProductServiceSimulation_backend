@@ -1,9 +1,9 @@
 package com.example.fsphc.service;
 
-import com.example.productservice_dc_05.Exception.ProductNotFoundException;
-import com.example.productservice_dc_05.dto.ProductDto;
-import com.example.productservice_dc_05.models.category;
-import com.example.productservice_dc_05.models.products;
+import com.example.fsphc.Exception.ProductNotFoundException;
+import com.example.fsphc.dto.ProductDto;
+import com.example.fsphc.models.category;
+import com.example.fsphc.models.products;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
